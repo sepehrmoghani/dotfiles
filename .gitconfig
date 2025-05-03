@@ -1,0 +1,17 @@
+[user]
+    name = Sepehr Moghani
+    email = sepehr.moghani@hotmail.com
+
+[core]
+    editor = vim
+    autocrlf = input
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    lg = log --oneline --graph --decorate --all
