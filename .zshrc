@@ -11,6 +11,7 @@ alias ga='git add .'
 alias gc='git commit -m'
 alias gp='git push'
 alias python="python3"
+alias pip="pip3"
 
 # Enable autocomplete
 autoload -U compinit && compinit
